@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityFragment</string>
+    <string name="save">Save</string>
+    <string name="send">Send</string>
+    <string name="txt_name">Araba Activity</string>
+    <string name="my_activity">My Activity!</string>
+    <string name="second_fragment_text_view">Second Fragment Text View</string>
+    <string name="txt_age">txt_age</string>
+</resources>
