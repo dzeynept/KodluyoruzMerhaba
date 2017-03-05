@@ -54,8 +54,6 @@ public class ArabaActivity extends AppCompatActivity {
         Log.e(TAG, "onStart");
     }
 
-
-
     @Override
     public void onAttachFragment(android.support.v4.app.Fragment fragment) {
         Log.e(TAG, "onAttachFragment");
