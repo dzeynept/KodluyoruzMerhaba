@@ -25,13 +25,6 @@ public class ArabaActivity extends AppCompatActivity {
     }
 
 
-
-    @Override
-    protected void onRestart() {
-        super.onRestart();
-        Log.e(TAG, "onRestart");
-    }
-
     @Override
     protected void onPostResume() {
         super.onPostResume();
