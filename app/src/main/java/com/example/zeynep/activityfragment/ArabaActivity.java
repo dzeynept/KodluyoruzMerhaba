@@ -25,11 +25,6 @@ public class ArabaActivity extends AppCompatActivity {
     }
 
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Log.e(TAG, "onDestroy");
-    }
 
     @Override
     protected void onRestart() {
